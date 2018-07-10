@@ -1,4 +1,3 @@
 "hello world"
 
-"hello world".class
-hello_world
+hello_world.new("hello world")
