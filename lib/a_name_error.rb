@@ -1,3 +1,4 @@
 "hello world"
 
-"hello world".classhello_world
+"hello world".class
+hello_world
